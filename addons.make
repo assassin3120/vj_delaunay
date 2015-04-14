@@ -1,0 +1,6 @@
+ofxKinect
+ofxOpenCv
+ofxCv
+ofxDelaunay
+ofxPostGlitch
+ofxSyphon
